@@ -1,0 +1,19 @@
+PS C:\Users\Student\cpp-practicals> g++ practical6.cpp -o practical6
+PS C:\Users\Student\cpp-practicals> .\practical6.exe
+----- RUNTIME POLYMORPHISM -----
+Student Name: Satinderpal Singh Chaney
+Roll Number: E26B00S2034
+----- CIRCLE -----
+Radius: 5
+Area of Circle: 78.5398
+----- RECTANGLE -----
+Length: 10
+Breadth: 5
+Area of Rectangle: 50
+----- TRIANGLE -----
+Base: 8
+Height: 6
+Area of Triangle: 24
+Runtime Polymorphism Demonstrated Successfully!
+Program executed successfully.
+PS C:\Users\Student\cpp-practicals>
